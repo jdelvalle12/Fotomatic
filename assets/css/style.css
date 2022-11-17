@@ -262,8 +262,8 @@ html {
     width: 90%;
     height: 65%;
     margin: 0 auto;
-    image-orientation: url("./resources/images/feature-1.png");
-    image-orientation: url("./resources/images/feature-2.png");
+    image-orientation: url("./assets/images/feature-1.png");
+    image-orientation: url("./assets/images/feature-2.png");
   }
   
   .feature .content {
